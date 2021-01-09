@@ -1,0 +1,31 @@
+:root {
+     --dark1: #151965;
+     --dark2: #32407b;
+     --dark3: #515585;
+     --secondary: #46b5d1;
+     --dark5: #222831;
+     --dark6: #30475e;
+     --dark7: #f2a365;
+     --dark8: #ececec;
+     --dark9: #1a1a2e;
+     --dark10: #16213e;
+     --dark11: #0f3460;
+     --dark12: #e94560;
+
+     --light1: #333333;
+     --light2: #ffffff;
+     --light3: #1a1a2e;
+     --light4: #706c61;
+     --light5: #f4f9f4;
+     --light6: #a7d7c5;
+     --light7: #74b49b;
+     --light8: #5c8d89;
+     --primary: #03ed66;
+}
+
+* {
+     box-sizing: border-box;
+     margin: 0;
+     padding: 0;
+     font-family: "Nunito", sans-serif;
+}
